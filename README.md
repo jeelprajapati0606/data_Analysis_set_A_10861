@@ -20,11 +20,11 @@
 ## 🔘 Quick Links
 
 <p align="center">
-<a href="python/Delivery_Delay.ipynb"><img src="https://img.shields.io/badge/📓_Open-Notebook-orange?style=flat-square"></a>
-<a href="powerbi/dashboard.pbix"><img src="https://img.shields.io/badge/📊_Open-Dashboard-yellow?style=flat-square"></a>
-<a href="excel/analysis.xlsx"><img src="https://img.shields.io/badge/📗_Open-Excel_Workbook-green?style=flat-square"></a>
-<a href="sql/setup.sql"><img src="https://img.shields.io/badge/🗄️_Open-SQL_Setup-blue?style=flat-square"></a>
-<a href="data/raw/deliveries.csv"><img src="https://img.shields.io/badge/⬇️_Download-Dataset-blue?style=flat-square"></a>
+<a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/blob/main/Delivery_Delay.ipynb"><img src="https://img.shields.io/badge/📓_Open-Notebook-orange?style=flat-square"></a>
+<a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/blob/main/output/power_Bi_Dashboards.png"><img src="https://img.shields.io/badge/📊_Open-Dashboard-yellow?style=flat-square"></a>
+<a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/blob/main/Delivery_Delay.xlsx"><img src="https://img.shields.io/badge/📗_Open-Excel_Workbook-green?style=flat-square"></a>
+<a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/tree/main/sql"><img src="https://img.shields.io/badge/🗄️_Open-SQL_Setup-blue?style=flat-square"></a>
+<a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/tree/main/data"><img src="https://img.shields.io/badge/⬇️_Download-Dataset-blue?style=flat-square"></a>
 <a href="https://drive.google.com/file/d/1-JGpgP-AL_FFqEzt7AHOl00PEM0MwSCj/view?usp=sharing">
   <img src="https://img.shields.io/badge/▶️_Watch-Demo_Video-red?style=flat-square">
 </a>
