@@ -20,7 +20,7 @@
 ## 🔘 Quick Links
 
 <p align="center">
-<a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/blob/main/Delivery_Delay.ipynb"><img src="https://img.shields.io/badge/📓_Open-Notebook-orange?style=flat-square"></a>
+<a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/blob/main/Delivery_Delay-checkpoint.ipynb"><img src="https://img.shields.io/badge/📓_Open-Notebook-orange?style=flat-square"></a>
 <a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/blob/main/output/power_Bi_Dashboards.png"><img src="https://img.shields.io/badge/📊_Open-Dashboard-yellow?style=flat-square"></a>
 <a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/blob/main/Delivery_Delay.xlsx"><img src="https://img.shields.io/badge/📗_Open-Excel_Workbook-green?style=flat-square"></a>
 <a href="https://github.com/jeelprajapati0606/data_Analysis_set_A_10861/tree/main/sql"><img src="https://img.shields.io/badge/🗄️_Open-SQL_Setup-blue?style=flat-square"></a>
